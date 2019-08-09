@@ -4,7 +4,7 @@ import com.webcrawler.util.UrlValidator;
 import org.junit.Assert;
 import org.junit.Test;
 
-public class TestUrlUtil {
+public class TestUrlValidator {
 
     @Test
     public void shouldReturnTrueWhenUrlIsValid()
